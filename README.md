@@ -1,8 +1,12 @@
-# React + Vite
+# React Test!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Calculator, Widget and Data Table made in React!
 
-Currently, two official plugins are available:
+Run `npm install` and `npm start` to run the project!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Previews
+
+![Home Page](image.png)
+![Calculator](image-1.png)
+![Weather](image-2.png)
+![Data Table](image-3.png)
